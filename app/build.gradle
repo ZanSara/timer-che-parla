@@ -13,7 +13,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.simplemobiletools.clock"
+        applicationId "com.simplemobiletools.timercheparla"
         minSdkVersion 23
         targetSdkVersion 33
         versionCode 35
